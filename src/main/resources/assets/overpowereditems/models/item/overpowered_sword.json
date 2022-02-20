@@ -1,0 +1,6 @@
+{
+    "parent" : "minecraft:item/generated",
+    "textures" : {
+        "layer0" : "overpowereditems:item/overpowered_sword"
+    }
+}

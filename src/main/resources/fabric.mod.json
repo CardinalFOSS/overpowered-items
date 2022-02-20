@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "overpowereditems",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Overpowered Items",
+  "description": "Adds very overpowered items and tools to vanilla minecraft",
   "authors": [
-    "Me!"
+    "Williams Chen"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/williamschen23/overpowered-items"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/overpowereditems/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.williamschen.overpowereditems.OverpoweredItems"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "overpowereditems.mixins.json"
   ],
 
   "depends": {
