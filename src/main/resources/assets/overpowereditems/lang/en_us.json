@@ -1,0 +1,13 @@
+{
+  "item.overpowereditems.overpowered_ingot" : "Overpowered Ingot",
+
+  "block.overpowereditems.overpowered_block": "Overpowered Block",
+
+  "item.overpowereditems.overpowered_sword" : "Overpowered Sword",
+  "item.overpowereditems.overpowered_pickaxe": "Overpowered Pickaxe",
+  "item.overpowereditems.overpowered_shovel": "Overpowered Shovel",
+  "item.overpowereditems.overpowered_hoe": "Overpowered Hoe",
+  "item.overpowereditems.overpowered_axe": "Overpowered Axe",
+
+  "itemGroup.overpowereditems.overpowered": "Overpowered Tab"
+}

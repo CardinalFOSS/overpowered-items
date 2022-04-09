@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "overpowereditems:block/overpowered_block"
+      },
+      {
+        "model": "overpowereditems:block/overpowered_block",
+        "y": 90
+      },
+      {
+        "model": "overpowereditems:block/overpowered_block",
+        "y": 180
+      },
+      {
+        "model": "overpowereditems:block/overpowered_block",
+        "y": 270
+      }
+    ]
+  }
+}

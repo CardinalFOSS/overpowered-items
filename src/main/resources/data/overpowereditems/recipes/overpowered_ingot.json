@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "overpowereditems:overpowered_block"
+    }
+  ],
+  "result": {
+    "item": "overpowereditems:overpowered_ingot",
+    "count": 9
+  }
+}
